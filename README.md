@@ -4,4 +4,5 @@ Group E mock website git project.
 This project has been worked on collaboratively by:
 Ryan Martin
 Harry Meighan
+James Martindale
 
