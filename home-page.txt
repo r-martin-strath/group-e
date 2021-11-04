@@ -1,3 +1,22 @@
-GROUP E's SNEAKER SITE
+GROUP E's SNEAKER SITE LOGO/HEADER
 ---------------------
-|HOME|TRAINERS|CLOTHING|HATS|ABOUT US|CONTACT US|
+|HOME|TRAINERS|CLOTHING|NEWS|ABOUT US|CONTACT US|
+---------------------
+Welcome to the Home Page of Group E's sneaker website design for our Git project.
+*Placeholder Image*
+
+Clcik HERE to browse our trainer range
+*Trainers Image*
+
+Click HERE to browse our clothing range
+*Clothing Image*
+
+Click HERE to get the latest trainer & clothing news
+*News Image*
+
+*Latest Drops Scroll Bar*
+
+*Upcoming Releases Scroll Bar*
+---------------------
+WEBSITE FOOTER GOES HERE
+---------------------
